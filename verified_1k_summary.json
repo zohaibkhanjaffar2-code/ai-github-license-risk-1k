@@ -1,0 +1,49 @@
+{
+  "sampled_total": 1000,
+  "api_ok": 1000,
+  "api_errors": {
+    "network_error": 0,
+    "http_error_total": 0,
+    "http_404": 0,
+    "http_403": 0,
+    "http_other": 0
+  },
+  "api_license_family_counts": {
+    "Permissive": 569,
+    "Unknown": 303,
+    "Copyleft": 93,
+    "Weak-copyleft": 25,
+    "Public-domain": 5,
+    "Other": 5
+  },
+  "confusion_matrix_input_vs_api_family": {
+    "copyleft": {
+      "Copyleft": 93,
+      "Weak-copyleft": 16
+    },
+    "other": {
+      "Unknown": 88
+    },
+    "permissive": {
+      "Permissive": 569,
+      "Public-domain": 3
+    },
+    "public-domain": {
+      "Public-domain": 2
+    },
+    "unknown": {
+      "Unknown": 214,
+      "Other": 5,
+      "Weak-copyleft": 1
+    },
+    "weak-copyleft": {
+      "Weak-copyleft": 8,
+      "Unknown": 1
+    }
+  },
+  "notes": [
+    "api_license_* comes from GitHub REST v3 /repos/{owner}/{repo}.",
+    "api_latest_commit_sha is the head of default branch at verification time.",
+    "License family computed via SPDX → family heuristic inside this script."
+  ]
+}
