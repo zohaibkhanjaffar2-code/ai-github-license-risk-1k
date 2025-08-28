@@ -1,0 +1,11 @@
+{
+  "sampled_total": 122736,
+  "written_total": 122626,
+  "api_license_family_counts": {},
+  "notes": [
+    "api_license_* comes from GitHub REST v3 /repos/{owner}/{repo}.",
+    "License family computed via SPDX -> family mapping inside this script.",
+    "Resumable output: rows are appended as they are verified."
+  ],
+  "generated_at": "2025-08-28 17:52 UTC"
+}
