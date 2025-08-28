@@ -1,12 +1,12 @@
 ﻿# Legal Risk Forecast (Data-Informed, Not Legal Advice)
 
-**CSV snapshot:** 102446 rows; HTTP 200: 102439; Unknown in 200s: 28078 (27.41%).
+**CSV snapshot:** 104694 rows; HTTP 200: 104606; Unknown in 200s: 29105 (27.82%).
 
 ## Model A - Observed Unknown share on N=1,000,000 repos
-- Unknown share (observed): 27.41%
-- Suits: 1370.47 | Winners: 13.7
-- US: Fees=$411,142,241, Loss adders=$1,370,474, **TOTAL=$412,512,715**
-- EU: Fees=EUR205,571,120, Loss adders=EUR1,644,569, **TOTAL=EUR207,215,689**
+- Unknown share (observed): 27.82%
+- Suits: 1391.17 | Winners: 13.91
+- US: Fees=$417,351,777, Loss adders=$1,391,173, **TOTAL=$418,742,950**
+- EU: Fees=EUR208,675,889, Loss adders=EUR1,669,407, **TOTAL=EUR210,345,296**
 
 ## Model B - 5% no-permission on N=100,000,000 repos
 - Suits and outcomes under 0.01% suit / 1% win assumptions.
