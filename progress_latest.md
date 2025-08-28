@@ -1,12 +1,12 @@
 ﻿# Bulk Verification Progress
-As of 2025-08-28 17:15
-Rows (incl. header): 99648
-HTTP 200 rows: 99641
+As of 2025-08-28 17:25
+Rows (incl. header): 102446
+HTTP 200 rows: 102439
 
 ## License families (200s)
-- Permissive: 59905
-- Unknown: 27086
-- Copyleft: 10110
-- Weak-copyleft: 2034
-- Public-domain: 291
-- Other: 215
+- Permissive: 61383
+- Unknown: 28078
+- Copyleft: 10349
+- Weak-copyleft: 2113
+- Public-domain: 294
+- Other: 222
